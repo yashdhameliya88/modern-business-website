@@ -10,39 +10,45 @@ An application used to showcase your modern business product to your customers, 
 
 ## ⚡ Installation and Setup Instructions ⚡
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 🌟 Create Project:
 `npm create vite@latest`
 
 🌟 Installation:
-`npm install`  
+`npm install`
 
 🌟 To Start Server:
-`npm run dev`  
+`npm run dev`
 
 🌟 To Visit App:
-`http://localhost:5173/`  
+`http://localhost:5173/`
 
 ## ⚡ Reflection ⚡
 
-This was a one week small project built during my internship time period. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+This was a one week small project built during my internship time period. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.
 
-Originally I wanted to build an application that allowed users introduce their modern business product to their clients what they were interested in, such as 'most tagged users'. I started this process by using the `npm create vite@latest` boilerplate with  `npm install` , then adding tailwind css by using the `npm install -D tailwindcss postcss autoprefixer` and initialize using the `npx tailwindcss int -p`.  
+Originally I wanted to build an application that allowed users introduce their modern business product to their clients what they were interested in, such as 'most tagged users'. I started this process by using the `npm create vite@latest` boilerplate with `npm install` , then adding tailwind css by using the `npm install -D tailwindcss postcss autoprefixer` and initialize using the `npx tailwindcss int -p`.
 
 ## ⚡ Languages-Frameworks-Tools ⚡
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,javascript,html,css,vscode,github,figma,git" />
 
 ## ⚡ Project Source Link ⚡
-📌 `<a href="#" target="_blank">GitHub Source Code</a>`  
-📌 `<a href="https://www.figma.com/file/ufLAIfvNBqqJ24YCBvNYTd/SafePay?type=design&node-id=0%3A1&mode=design&t=hgQP6RHNNPBqXEWo-1" target="_blank">Figma File</a>`  
+
+📌 <button onclick="gitcode()">GitHub Source Code</button>
+📌 <button onclick="figmafile()">Figma File</button>
+
+<script>
+  function gitcode(){ window.location = "https://github.com/yashdhameliya88/safepay"; }
+  function figmafile(){ window.location = "https://www.figma.com/file/ufLAIfvNBqqJ24YCBvNYTd/SafePay?type=design&node-id=0%3A1&mode=design&t=hgQP6RHNNPBqXEWo-1"; }
+</script>
 
 ## ⚡ Contact Us ⚡
 
-💬 Ask me about **React, Java Script, Material UI, Tailwind CSS... or anything [here](https://github.com/yashdhameliya88/yashdhameliya88/issues)**
+💬 Ask me about **React, Vite, Java Script, Material UI, Tailwind CSS... or anything [here](https://github.com/yashdhameliya88/safepay/issues)**
 
-<div align="center"> 
+<div> 
   <a href="mailto:yashdhameliya98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
