@@ -37,11 +37,11 @@ Originally I wanted to build an application that allowed users introduce their m
 ## ⚡ Project Source Link ⚡
 <br>
 📌 <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Source Code-B2B2B2?style=for-the-badge&logo=github&logoColor=white" target="_blank" style="border-radius: 20px;"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Source Code-B2B2B2?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
 <br>
 📌 <a href="https://www.figma.com/file/ufLAIfvNBqqJ24YCBvNYTd/SafePay?type=design&node-id=0%3A1&mode=design&t=hgQP6RHNNPBqXEWo-1" target="_blank">
-     <img src="https://img.shields.io/badge/Figma File-B2B2B2?style=for-the-badge&logo=github&logoColor=white" target="_blank" style="border-radius: 20px;"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Figma File-B2B2B2?style=for-the-badge&logo=figma&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
 
 
