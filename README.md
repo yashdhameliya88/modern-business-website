@@ -35,14 +35,15 @@ Originally I wanted to build an application that allowed users introduce their m
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,javascript,html,css,vscode,github,figma,git" />
 
 ## ⚡ Project Source Link ⚡
+<br>
+📌 <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Source Code-D6DFFA?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
+<br>
+📌 <a href="https://www.figma.com/file/ufLAIfvNBqqJ24YCBvNYTd/SafePay?type=design&node-id=0%3A1&mode=design&t=hgQP6RHNNPBqXEWo-1" target="_blank">
+     <img src="https://img.shields.io/badge/Figma File-D6DFFA?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
 
-📌 <button onclick="gitcode()">GitHub Source Code</button>
-📌 <button onclick="figmafile()">Figma File</button>
-
-<script>
-  function gitcode(){ window.location = "https://github.com/yashdhameliya88/safepay"; }
-  function figmafile(){ window.location = "https://www.figma.com/file/ufLAIfvNBqqJ24YCBvNYTd/SafePay?type=design&node-id=0%3A1&mode=design&t=hgQP6RHNNPBqXEWo-1"; }
-</script>
 
 ## ⚡ Contact Us ⚡
 
