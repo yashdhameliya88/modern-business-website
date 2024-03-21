@@ -36,6 +36,11 @@ Originally I wanted to build an application that allowed users introduce their m
 
 ## ⚡ Project Source Link ⚡
 <br>
+
+📌 <a href="https://safepay-business.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Live Demo-B2B2B2?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
+<br>
 📌 <a href="https://github.com/yashdhameliya88/safepay" target="_blank">
      <img src="https://img.shields.io/badge/Source Code-B2B2B2?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
